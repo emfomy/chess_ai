@@ -1,0 +1,9 @@
+D:\Data\ChessAI\_VB\ChessAI_DS\ChessAI_DS\bin\Release\ChessAI_DS.exe
+D:\Data\ChessAI\_VB\ChessAI_DS\ChessAI_DS\bin\Release\ChessAI_DS.pdb
+D:\Data\ChessAI\_VB\ChessAI_DS\ChessAI_DS\bin\Release\ChessAI_DS.xml
+D:\Data\ChessAI\_VB\ChessAI_DS\ChessAI_DS\obj\Release\ResolveAssemblyReference.cache
+D:\Data\ChessAI\_VB\ChessAI_DS\ChessAI_DS\obj\Release\ChessAI_DS.Resources.resources
+D:\Data\ChessAI\_VB\ChessAI_DS\ChessAI_DS\obj\Release\ChessAI_DS.vbproj.GenerateResource.Cache
+D:\Data\ChessAI\_VB\ChessAI_DS\ChessAI_DS\obj\Release\ChessAI_DS.exe
+D:\Data\ChessAI\_VB\ChessAI_DS\ChessAI_DS\obj\Release\ChessAI_DS.xml
+D:\Data\ChessAI\_VB\ChessAI_DS\ChessAI_DS\obj\Release\ChessAI_DS.pdb
